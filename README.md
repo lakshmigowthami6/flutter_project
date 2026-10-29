@@ -2,6 +2,10 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
+## Live deployment
+
+The app is deployed at [https://flutter-project-1e632.web.app](https://flutter-project-1e632.web.app).
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
